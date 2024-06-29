@@ -170,20 +170,20 @@ p{
        font-size: 1.25rem;
         text-align: left;
     }
+    p{
+          position: absolute;
+       right: 0;
+       bottom: 0;
+       margin: 3em;
+       padding: 0 1em;
+       color: #ddd;
+       max-width: 300px;
+       border-right: 4px solid #fff;
+       text-align: right;
+       }
 }
 
 
- p{
-       position: absolute;
-    right: 0;
-    bottom: 0;
-    margin: 3em;
-    padding: 0 1em;
-    color: #ddd;
-    max-width: 300px;
-    border-right: 4px solid #fff;
-    text-align: right;
-    }
 
 
 
